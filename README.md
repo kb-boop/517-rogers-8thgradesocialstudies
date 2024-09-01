@@ -3,7 +3,7 @@
 
 # Welcome to 8th Social Studies Class!
 
-[chalkboard clip art](images/classroom%20clip%20art.avif)
+[chalkboard clip art](images/classroom.jpg)
 
 ## Please find below some important information in order to be prepared for class
 
